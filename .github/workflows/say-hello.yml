@@ -4,5 +4,5 @@ jobs:
   log:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: make say-hello
+      - name: step-1
+        run: make say-hello
