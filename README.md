@@ -1,3 +1,5 @@
 # hexlet-my-first-workflow
 
-![workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Node CI](https://github.com/zzpillau/hexlet-my-first-workflow/workflows/Node%20CI/badge.svg)](https://github.com/zzpillau/hexlet-my-first-workflow/actions)
+
+
